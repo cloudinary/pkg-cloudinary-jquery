@@ -66,9 +66,7 @@ http://cloudinary.com/blog/direct_image_uploads_from_the_browser_to_the_cloud_wi
 The Cloudinary Documentation can be found at:
 http://cloudinary.com/documentation
 
-### Core JavaScript library
-
-The Core Cloudinary JavaScript library provides several classes, defined under the "`cloudinary`" domain. The reference documentation is located at https://cloudinary.github.io/pkg-cloudinary-jquery
+The Cloudinary JavaScript library API reference can be found at: [https://cloudinary.github.io/pkg-cloudinary-jquery](https://cloudinary.github.io/pkg-cloudinary-jquery)
 
 #### Configuration
 
@@ -229,11 +227,11 @@ The `options` parameters are similar across all cloudinary frameworks. Please re
 ### Other Cloudinary JavaScript libraries
 
 #### Core Javascript library
-The Core Cloudinary JavaScript library does not depend on jQuery: https://github.com/cloudinary/pkg-cloudinary-core.
+The Core Cloudinary JavaScript library does not depend on jQuery: [https://github.com/cloudinary/pkg-cloudinary-core](https://github.com/cloudinary/pkg-cloudinary-core).
 
 #### jQuery File upload
 The Cloudinary jQuery File Upload library extends the Cloudinary jQuery plugin with support for the [Blueimp jQuery File Upload library](https://blueimp.github.io/jQuery-File-Upload/).
-The library can be found at https://github.com/cloudinary/pkg-cloudinary-jquery-file-upload.
+The library can be found at [https://github.com/cloudinary/pkg-cloudinary-jquery-file-upload](https://github.com/cloudinary/pkg-cloudinary-jquery-file-upload).
 
 ## Additional resources
 
