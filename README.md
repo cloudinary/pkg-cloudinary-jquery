@@ -29,7 +29,8 @@ For Javascript, Cloudinary provides a jQuery plugin for simplifying the integrat
 1. Include the javascript file in your HTML. For Example:
 
   ```html
-  <script src="../bower_components/cloudinary-jquery/cloudinary-jquery.js"></script>
+  <script src="bower_components/jquery/dist/jquery.js"                  type="text/javascript"></script>
+  <script src="bower_components/cloudinary-jquery/cloudinary-jquery.js" type="text/javascript"></script>
   ```
 
 ### NPM
@@ -39,7 +40,8 @@ For Javascript, Cloudinary provides a jQuery plugin for simplifying the integrat
 1. Include the javascript file in your HTML. For Example:
 
   ```html
-  <script src="../node_modules/cloudinary-jquery/cloudinary-jquery.js"></script>
+  <script src="node_modules/jquery/dist/jquery.js"                  type="text/javascript"></script>
+  <script src="node_modules/cloudinary-jquery/cloudinary-jquery.js" type="text/javascript"></script>
   ```
 
 For the server side NPM library, refer to https://github.com/cloudinary/cloudinary_npm.
