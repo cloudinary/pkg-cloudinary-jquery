@@ -36,7 +36,7 @@ For Javascript, Cloudinary provides a jQuery plugin for simplifying the integrat
 ### NPM
 
 1. Install the files using:
-  `npm  install cloudinary_jquery`.
+  `npm  install cloudinary-jquery`.
 1. Include the javascript file in your HTML. For Example:
 
   ```html
