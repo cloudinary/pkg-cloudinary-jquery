@@ -1,6 +1,6 @@
-This is a distribution repository for `bower` and `npm`. The sources for this repository are maintained at the [cloudinary_js repository](https://github.com/cloudinary/cloudinary_js). Please submit issues and pull requests to that repository.
+:information_source: This is a distribution repository for `bower` and `npm`. The sources for this repository are maintained at the [cloudinary_js repository](https://github.com/cloudinary/cloudinary_js). Please submit issues and pull requests to that repository.
 
-# Cloudinary jQuery Plugin - bower and npm repository
+# Cloudinary Client Side JavaScript Library - jQuery Plugin<br>`bower` and `npm` repository
 
 Cloudinary is a cloud service that offers a solution to a web application's entire image management pipeline.
 
@@ -22,29 +22,32 @@ For Javascript, Cloudinary provides a jQuery plugin for simplifying the integrat
 
 1. Install the files using the following command. Use the optional `--save` parameter if you wish to save the dependency in your bower.json file.
 
-  ```shell
-  bower install cloudinary-jquery
-  ```
+   ```shell
+   bower install cloudinary-jquery
+   ```
 
 1. Include the javascript file in your HTML. For Example:
 
-  ```html
-  <script src="bower_components/jquery/dist/jquery.js"                  type="text/javascript"></script>
-  <script src="bower_components/cloudinary-jquery/cloudinary-jquery.js" type="text/javascript"></script>
-  ```
+   ```html
+   <script src="bower_components/jquery/dist/jquery.js"                  type="text/javascript"></script>
+   <script src="bower_components/cloudinary-jquery/cloudinary-jquery.js" type="text/javascript"></script>
+   ```
 
 ### NPM
 
 1. Install the files using:
-  `npm  install cloudinary_jquery`.
+   ```
+   npm install jquery
+   npm install cloudinary-jquery
+   ```
 1. Include the javascript file in your HTML. For Example:
 
-  ```html
-  <script src="node_modules/jquery/dist/jquery.js"                  type="text/javascript"></script>
-  <script src="node_modules/cloudinary-jquery/cloudinary-jquery.js" type="text/javascript"></script>
-  ```
+   ```html
+   <script src="node_modules/jquery/dist/jquery.js"                  type="text/javascript"></script>
+   <script src="node_modules/cloudinary-jquery/cloudinary-jquery.js" type="text/javascript"></script>
+   ```
 
-For the server side NPM library, refer to https://github.com/cloudinary/cloudinary_npm.
+For the server side NPM library, please refer to https://github.com/cloudinary/cloudinary_npm.
 
 ## Setup
 
@@ -68,7 +71,11 @@ http://cloudinary.com/blog/direct_image_uploads_from_the_browser_to_the_cloud_wi
 The Cloudinary Documentation can be found at:
 http://cloudinary.com/documentation
 
+### Cloudinary JavaScript library
+
 The Cloudinary JavaScript library API reference can be found at: [https://cloudinary.github.io/pkg-cloudinary-jquery](https://cloudinary.github.io/pkg-cloudinary-jquery)
+
+The Cloudinary JavaScript library provides several classes, defined under the "`cloudinary`" domain.
 
 #### Configuration
 
