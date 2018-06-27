@@ -17,7 +17,7 @@
     "url": "https://github.com/cloudinary/cloudinary_js/issues"
   },
   "homepage": "https://github.com/cloudinary/cloudinary_js",
-  "dependencies": {
+  "peerDependencies": {
     "jquery": ">=1.6"
   }
 }
