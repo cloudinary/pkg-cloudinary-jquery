@@ -2,6 +2,10 @@
 
 :information_source: This was a distribution repository for `bower` and `npm`. The sources for this repository are maintained at the [cloudinary_js repository](https://github.com/cloudinary/cloudinary_js). Please submit issues and pull requests to that repository.
 
+## Installation and Usage
+
+See here: https://github.com/cloudinary/cloudinary_js/tree/master/pkg/cloudinary-jquery
+
 ## Additional resources
 
 Additional resources are available at:
